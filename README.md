@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Machine learning projects**
 
-- 📫 How to reach me: **hazemhammami01@outlook.com**
+- 📫 How to reach me: **hazemhammami.email@gmail.com**
 
 - ⚡ Fun fact: **I'm not addicted to coffee, I'm just in a committed relationship with it.**
 
