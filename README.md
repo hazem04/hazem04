@@ -8,6 +8,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazem04&label=Profile%20views&color=0e75b6&style=flat" alt="hazem04" /> </p>
 
+- 🎓 Currently pursuing a **M.Eng degree in Software Engineering**
+
 - 🌱 I’m currently learning **Reinforcement learning**
 
 - 👯 I’m looking to collaborate on **Machine learning projects**
