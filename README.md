@@ -8,15 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hazem04&label=Profile%20views&color=0e75b6&style=flat" alt="hazem04" /> </p>
 
-- 🎓 Currently pursuing a **M.Eng degree in Software Engineering**
+- 🎓 I'm currently pursuing a **M.Eng degree in Software Engineering**
 
 - 🌱 I’m currently learning **Reinforcement learning**
 
 - 👯 I’m looking to collaborate on **Machine learning projects**
 
 - 📫 How to reach me: **hazemhammami.email@gmail.com**
-
-- ⚡ Fun fact: **I'm not addicted to coffee, I'm just in a committed relationship with it.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
