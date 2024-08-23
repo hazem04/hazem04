@@ -9,9 +9,9 @@
 
 - 🎓 I'm currently pursuing a **M.Eng degree in Software Engineering**
 
-- 🌱 I’m currently learning **Reinforcement learning**
+- 🌱 I’m currently learning **ML in production**
 
-- 👯 I’m looking to collaborate on **Machine learning projects**
+- 👯 I’m looking to collaborate on **Reinforcement Learning projects**
 
 - 📫 How to reach me: **hazemhammami.email@gmail.com**
 
