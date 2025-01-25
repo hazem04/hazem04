@@ -9,7 +9,7 @@
 
 - 🎓 I'm currently pursuing a **M.Eng degree in Software Engineering**
 
-- 🌱 I’m currently learning **ML in production**
+- 🌱 I’m currently learning **Multi-Agent Reinforcement Learning**
 
 - 👯 I’m looking to collaborate on **Reinforcement Learning projects**
 
